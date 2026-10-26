@@ -1,5 +1,10 @@
 # Path Search
 a simple dfs/bfs/a* path search project in c
+Press D: use dfs  
+Press B: use bfs  
+Press A: use a_star  
+Press R: restart  
+Press Space: pause  
 
 ## Build
 ## you should have a mingw64
