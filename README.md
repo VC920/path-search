@@ -12,10 +12,10 @@ SDL3_ttf
 
 ## Demo
 1.depth-first-search
-![dfs]()
+![dfs](pictures/dfs.png)
 
 2.breadth-first-search
-![bfs]()
+![bfs](pictures/bfs.png)
 
 3.a*-search
-![a*]()
+![a*](pictures/a_star.png)
