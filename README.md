@@ -1,5 +1,5 @@
 # Path Search
-a simple dfs/bfs/a* path search project in c
+a simple dfs/bfs/a* path search project in c  
 Press D: use dfs  
 Press B: use bfs  
 Press A: use a_star  
